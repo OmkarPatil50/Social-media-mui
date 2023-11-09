@@ -1,6 +1,5 @@
-# Material-UI Social Media Mockup
+# Communitea
 
-This project is a mockup of a social media website built using Material-UI, a popular React component library for designing user interfaces. It serves as a showcase of Material-UI skills.
 
 ## Preview
 
@@ -9,7 +8,7 @@ This project is a mockup of a social media website built using Material-UI, a po
 
 ## Overview
 
-Provide a brief overview of the project and its purpose.
+This project is a mockup of a social media website built using Material-UI, a popular React component library for designing user interfaces. It serves as a showcase of Material-UI skills.
 
 ## Technologies Used
 
