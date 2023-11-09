@@ -10,7 +10,8 @@ Provide a brief overview of the project and its purpose.
 
 Include screenshots or a link to a live demo to showcase your work.
 
-![Mockup Preview]("./Data/light-mode.pns")
+![Mockup Preview - (Dark mode)]("https://drive.google.com/file/d/1r7VzOILsIvHiykYP8RHOpmGxreUuE_VI/view?usp=sharing")
+![Mockup Preview - (Light mode)]("https://drive.google.com/file/d/1aZjkbWwu3-Woix017MoIUzx4EaRczcBB/view?usp=sharing")
 
 ## Getting Started
 
